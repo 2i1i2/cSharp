@@ -1,0 +1,5 @@
+C:\cSharp\csharp\cSharp_Core\07_Conditions\bin\Debug\07_Conditions.pdb
+C:\cSharp\csharp\cSharp_Core\07_Conditions\obj\Debug\07_Conditions.csprojResolveAssemblyReference.cache
+C:\cSharp\csharp\cSharp_Core\07_Conditions\obj\Debug\07_Conditions.pdb
+C:\cSharp\csharp\cSharp_Core\07_Conditions\bin\Debug\07_Conditions.exe
+C:\cSharp\csharp\cSharp_Core\07_Conditions\obj\Debug\07_Conditions.exe

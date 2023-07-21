@@ -1,0 +1,5 @@
+C:\cSharp\csharp\cSharp_Core\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\cSharp\csharp\cSharp_Core\06_Arrays\obj\Debug\06_Arrays.pdb
+C:\cSharp\csharp\cSharp_Core\06_Arrays\bin\Debug\06_Arrays.exe
+C:\cSharp\csharp\cSharp_Core\06_Arrays\obj\Debug\06_Arrays.exe
+C:\cSharp\csharp\cSharp_Core\06_Arrays\obj\Debug\06_Arrays.csprojResolveAssemblyReference.cache

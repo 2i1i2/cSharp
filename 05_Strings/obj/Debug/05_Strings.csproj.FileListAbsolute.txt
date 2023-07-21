@@ -1,0 +1,4 @@
+C:\cSharp\csharp\cSharp_Core\05_Strings\bin\Debug\05_Strings.pdb
+C:\cSharp\csharp\cSharp_Core\05_Strings\obj\Debug\05_Strings.pdb
+C:\cSharp\csharp\cSharp_Core\05_Strings\bin\Debug\05_Strings.exe
+C:\cSharp\csharp\cSharp_Core\05_Strings\obj\Debug\05_Strings.exe

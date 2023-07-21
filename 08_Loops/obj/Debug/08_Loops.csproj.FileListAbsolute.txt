@@ -1,0 +1,5 @@
+C:\cSharp\csharp\cSharp_Core\08_Loops\bin\Debug\08_Loops.exe
+C:\cSharp\csharp\cSharp_Core\08_Loops\bin\Debug\08_Loops.pdb
+C:\cSharp\csharp\cSharp_Core\08_Loops\obj\Debug\08_Loops.csprojResolveAssemblyReference.cache
+C:\cSharp\csharp\cSharp_Core\08_Loops\obj\Debug\08_Loops.exe
+C:\cSharp\csharp\cSharp_Core\08_Loops\obj\Debug\08_Loops.pdb

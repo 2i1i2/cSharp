@@ -1,0 +1,5 @@
+C:\cSharp\csharp\cSharp_Core\09_Methods\bin\Debug\09_Methods.exe
+C:\cSharp\csharp\cSharp_Core\09_Methods\bin\Debug\09_Methods.pdb
+C:\cSharp\csharp\cSharp_Core\09_Methods\obj\Debug\09_Methods.csprojResolveAssemblyReference.cache
+C:\cSharp\csharp\cSharp_Core\09_Methods\obj\Debug\09_Methods.exe
+C:\cSharp\csharp\cSharp_Core\09_Methods\obj\Debug\09_Methods.pdb

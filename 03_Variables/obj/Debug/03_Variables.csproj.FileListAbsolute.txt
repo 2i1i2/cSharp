@@ -1,0 +1,4 @@
+C:\cSharp\csharp\cSharp_Core\03_Variables\bin\Debug\03_Variables.pdb
+C:\cSharp\csharp\cSharp_Core\03_Variables\obj\Debug\03_Variables.pdb
+C:\cSharp\csharp\cSharp_Core\03_Variables\bin\Debug\03_Variables.exe
+C:\cSharp\csharp\cSharp_Core\03_Variables\obj\Debug\03_Variables.exe
